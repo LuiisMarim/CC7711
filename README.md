@@ -2,6 +2,10 @@
 
 *Video*: [RobosProjeto2025s2.mp4](https://github.com/LuiisMarim/CC7711/blob/main/RobosProjeto2025s2.mp4)
 
+GRUPO: 
+LUIS MARIM
+STELLA CORREIA
+
 ---
 
 ## 🎯 Objetivo Principal
